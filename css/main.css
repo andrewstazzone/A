@@ -47,6 +47,12 @@ body{
         height: 300px !important;
     }
 }
+@media (min-width: 576px) {
+    .our_main_img{
+       width: 120% !important;
+    }
+}
+
 
 
 
